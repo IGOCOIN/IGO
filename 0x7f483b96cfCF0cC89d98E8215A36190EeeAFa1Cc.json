@@ -1,0 +1,35 @@
+{
+"symbol": "IGO",
+"name": "IGOCOIN",
+"type": "BE20",
+"address": "0x7f483b96cfCF0cC89d98E8215A36190EeeAFa1Cc",
+"ens_address": "",
+"decimals": 16,
+"website": "https://igocoin.org",
+"logo": {
+"src": "https://photos.app.goo.gl/PPF4vSRgwgLmkYrG9",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "support@igocoin.com",
+"url": "https://igocoin.org"
+},
+"social": {
+"blog": "",
+"chat": "",
+"discord": "",
+"facebook": "",
+"forum": "",
+"github": "https://github.com/IGOCOIN",
+"gitter": "",
+"instagram": "",
+"linkedin": "",
+"reddit": "",
+"slack": "",
+"telegram": "https://t.me/IGOCOINTOKEN",
+"twitter": "https://x.com/igocoin",
+"youtube": ""
+}
+}
